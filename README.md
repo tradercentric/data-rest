@@ -2,7 +2,7 @@
 
 Learn to springboot starter, data-jpa, data-rest, actuator, h2, h2 console, preload data.sql, crud, docker <br/>
 
-# Available APIs where application is running.
+# Available APIs when application is running.
 
 http://localhost:8080 <br/>
 http://localhost:8080/books <br/>
