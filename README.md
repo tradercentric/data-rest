@@ -1,5 +1,5 @@
 #data-rest-crud
-Learn to springboot starter, data-jpa, data-rest, actuator, h2, preload data.sql, crud, docker <br/>
+Learn to springboot starter, data-jpa, data-rest, actuator, h2, h2 console, preload data.sql, crud, docker <br/>
 
 #Avaiable apis where application is running.
 
